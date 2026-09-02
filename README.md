@@ -1,16 +1,49 @@
-## Hi there 👋
+# Dr Thiago Lima
 
-<!--
-**thiagoluks/thiagoluks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Medical Physicist | Nuclear Medicine | Medical Imaging | Radiation Protection
 
-Here are some ideas to get you started:
+Medical physicist working at the intersection of clinical practice, 
+research, medical imaging, dosimetry and computational methods.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research
+
+- Molecular radiotherapy dosimetry
+- PET/CT and SPECT/CT quantification
+- Radiopharmaceutical therapy
+- Medical imaging and image quality
+- Radiation protection
+- Monte Carlo simulation
+- AI and machine learning in medical imaging
+
+## Projects
+
+### 🧬 Molecular Radiotherapy
+Tools and models for patient-specific dosimetry and pharmacokinetic analysis.
+
+### ☢️ Nuclear Medicine
+Quantification, image reconstruction and quality assurance tools for PET and SPECT.
+
+### 💻 Computational Medical Physics
+Monte Carlo simulations, image processing and data analysis.
+
+### 🤖 AI & Medical Imaging
+Machine-learning approaches for image quality, segmentation and quantitative imaging.
+
+## Software
+
+| Project | Description | Language |
+|---|---|---|
+| Project A | ... | Python |
+| Project B | ... | MATLAB |
+| Project C | ... | Python |
+
+## Publications
+
+See my publications on
+[ORCID](...) and [Google Scholar](...).
+
+## Links
+
+- [ORCID](...)
+- [Institutional profile](...)
+- [ResearchGate](...)
