@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1640" height="820" viewBox="0 0 1640 820" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="1640" height="820" fill="#ffffff"/>
+
+<defs>
+  <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L0,6 L9,3 z" fill="#495057"/>
+  </marker>
+  <marker id="arrowhead-teal" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L0,6 L9,3 z" fill="#0b7285"/>
+  </marker>
+  <marker id="arrowhead-red" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L0,6 L9,3 z" fill="#c92a2a"/>
+  </marker>
+  <marker id="arrowhead-amber" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L0,6 L9,3 z" fill="#e8590c"/>
+  </marker>
+</defs>
+
+<text x="820.0" y="34" text-anchor="middle" font-size="21" font-weight="700" fill="#1a1a1a">Current radioembolisation workflow vs. the VIRTUO-enabled workflow</text>
+<rect x="20" y="55" width="1600" height="280" rx="18" fill="#fff5f5" stroke="#ffc9c9" stroke-width="1.5"/>
+<rect x="20" y="380" width="1600" height="340" rx="18" fill="#e6fcf5" stroke="#96f2d7" stroke-width="1.5"/>
+<text x="44" y="85" font-size="15" font-weight="700" letter-spacing="0.5" fill="#c92a2a">CURRENT CLINICAL WORKFLOW</text>
+<text x="44" y="410" font-size="15" font-weight="700" letter-spacing="0.5" fill="#0b7285">VIRTUO-ENABLED WORKFLOW</text>
+<rect x="40" y="100" width="190" height="150" rx="14" fill="#f8f9fa" stroke="#adb5bd" stroke-width="2.2"/>
+<text x="135.0" y="163.66" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">Diagnosis:</text>
+<text x="135.0" y="186.16" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">CE-CT / CE-MRI</text>
+
+<rect x="255" y="100" width="190" height="150" rx="14" fill="#f8f9fa" stroke="#adb5bd" stroke-width="2.2"/>
+<text x="350.0" y="163.66" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">Tumour board</text>
+<text x="350.0" y="186.16" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">decision</text>
+
+<rect x="475" y="100" width="235" height="150" rx="14" fill="#fff0f0" stroke="#e03131" stroke-width="2.2"/>
+<text x="592.5" y="152.41" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">Angiography:</text>
+<text x="592.5" y="174.91" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">trial-and-error</text>
+<text x="592.5" y="197.41" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">catheter placement</text>
+
+<rect x="740" y="100" width="300" height="150" rx="14" fill="#fff0f0" stroke="#e03131" stroke-width="2.2"/>
+<text x="890.0" y="141.16" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">⁹⁹ᵐTc-MAA injection +</text>
+<text x="890.0" y="163.66" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">SPECT/CT; manual</text>
+<text x="890.0" y="186.16" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">dose calculation</text>
+<text x="890.0" y="208.66" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">(planning procedure)</text>
+
+<rect x="1070" y="100" width="255" height="150" rx="14" fill="#fff0f0" stroke="#e03131" stroke-width="2.2"/>
+<text x="1197.5" y="141.16" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">1–2 weeks later:</text>
+<text x="1197.5" y="163.66" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">2nd angiography,</text>
+<text x="1197.5" y="186.16" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">Y90 injection</text>
+<text x="1197.5" y="208.66" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">(treatment procedure)</text>
+
+<rect x="1355" y="100" width="245" height="150" rx="14" fill="#f8f9fa" stroke="#adb5bd" stroke-width="2.2"/>
+<text x="1477.5" y="152.41" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">PET/CT</text>
+<text x="1477.5" y="174.91" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">verification of</text>
+<text x="1477.5" y="197.41" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">delivered dose</text>
+
+<line x1="234" y1="175.0" x2="251" y2="175.0" stroke="#c92a2a" stroke-width="2.4" marker-end="url(#arrowhead-red)"/>
+
+<line x1="449" y1="175.0" x2="471" y2="175.0" stroke="#c92a2a" stroke-width="2.4" marker-end="url(#arrowhead-red)"/>
+
+<line x1="714" y1="175.0" x2="736" y2="175.0" stroke="#c92a2a" stroke-width="2.4" marker-end="url(#arrowhead-red)"/>
+
+<line x1="1044" y1="175.0" x2="1066" y2="175.0" stroke="#c92a2a" stroke-width="2.4" marker-end="url(#arrowhead-red)"/>
+
+<line x1="1329" y1="175.0" x2="1351" y2="175.0" stroke="#c92a2a" stroke-width="2.4" marker-end="url(#arrowhead-red)"/>
+
+<text x="44" y="284" font-size="14.5" fill="#c92a2a">Limitation:  two separate invasive hepatic angiographies (planning + treatment), &#8776; 1&#8211;2 weeks apart; catheter tip cannot be reproduced exactly &#8594; planned and delivered dose can diverge.</text>
+<rect x="40" y="425" width="190" height="150" rx="14" fill="#f8f9fa" stroke="#adb5bd" stroke-width="2.2"/>
+<text x="135.0" y="488.66" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">Diagnosis:</text>
+<text x="135.0" y="511.16" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">CE-CT / CE-MRI</text>
+
+<rect x="255" y="425" width="190" height="150" rx="14" fill="#f8f9fa" stroke="#adb5bd" stroke-width="2.2"/>
+<text x="350.0" y="488.66" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">Tumour board</text>
+<text x="350.0" y="511.16" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">decision</text>
+
+<rect x="475" y="425" width="565" height="150" rx="14" fill="#e6fcf5" stroke="#0b7285" stroke-width="2.2"/>
+<text x="757.5" y="466.16" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">AI vessel segmentation → virtual twin:</text>
+<text x="757.5" y="488.66" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">in-silico test of multiple candidate</text>
+<text x="757.5" y="511.16" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">injection positions and predicted doses</text>
+<text x="757.5" y="533.6600000000001" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">(no invasive planning procedure)</text>
+
+<rect x="1070" y="425" width="255" height="150" rx="14" fill="#f8f9fa" stroke="#adb5bd" stroke-width="2.2"/>
+<text x="1197.5" y="466.16" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">Single angiography:</text>
+<text x="1197.5" y="488.66" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">pre-planned position,</text>
+<text x="1197.5" y="511.16" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">Y90 injection</text>
+<text x="1197.5" y="533.6600000000001" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">(treatment procedure)</text>
+
+<rect x="1355" y="425" width="245" height="150" rx="14" fill="#f8f9fa" stroke="#adb5bd" stroke-width="2.2"/>
+<text x="1477.5" y="477.41" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">PET/CT verification</text>
+<text x="1477.5" y="499.91" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">→ feeds back to</text>
+<text x="1477.5" y="522.4100000000001" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500" fill="#1a1a1a">refine the model</text>
+
+<line x1="234" y1="500.0" x2="251" y2="500.0" stroke="#0b7285" stroke-width="2.4" marker-end="url(#arrowhead-teal)"/>
+
+<line x1="449" y1="500.0" x2="471" y2="500.0" stroke="#0b7285" stroke-width="2.4" marker-end="url(#arrowhead-teal)"/>
+
+<line x1="1044" y1="500.0" x2="1066" y2="500.0" stroke="#0b7285" stroke-width="2.4" marker-end="url(#arrowhead-teal)"/>
+
+<line x1="1329" y1="500.0" x2="1351" y2="500.0" stroke="#0b7285" stroke-width="2.4" marker-end="url(#arrowhead-teal)"/>
+
+<path d="M 1477.5 581 C 1477.5 643, 915.7 643, 915.7 581" fill="none" stroke="#0b7285" stroke-width="2" stroke-dasharray="6,5" marker-end="url(#arrowhead-teal)"/>
+<text x="1196.6" y="661" text-anchor="middle" font-size="13" font-style="italic" fill="#0b7285">continual model refinement</text>
+<text x="44" y="701" font-size="14.5" fill="#0b7285">Improvement:  candidate injection positions compared computationally, before any catheter is placed; a single invasive procedure delivers the optimised treatment.</text>
+</svg>
