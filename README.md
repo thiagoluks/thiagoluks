@@ -15,6 +15,7 @@ research, medical imaging, dosimetry and computational methods.
 - Monte Carlo simulation
 - AI and machine learning in medical imaging
 - Digital twins for interventional treatment planning
+- Agentic AI workflows for scientific writing and reproducible research
 
 ## Projects
 
@@ -35,6 +36,9 @@ Patient-specific virtual twins (AI vascular segmentation + computational fluid d
 
 ### ⌚ MIRAGE — At-home Wearable Dosimetry
 Single-scan, wearable-anchored and generative-AI-synthesised dosimetry for molecular radiotherapy, replacing today's 3–4 hospital SPECT/CT visits with one scan plus a continuously worn gamma detector. Horizon Europe draft proposal (three consortium variants), not yet submitted — see [thiagoluks/Research](https://github.com/thiagoluks/Research/tree/main/MIRAGE) *(private repo)*.
+
+### 🛠️ AGENT-WORKSPACE — Agentic AI as a Research Environment
+Using a persistent AI agent as the working environment for research: drafting and revising proposals, verifying literature, generating figures and maintaining the research repository, under conventions that keep every change small and reviewable. Workspace established; research scope not yet defined — see [thiagoluks/Research](https://github.com/thiagoluks/Research/tree/main/AGENT-WORKSPACE) *(private repo)*.
 
 ## Software
 
