@@ -37,6 +37,9 @@ Patient-specific virtual twins (AI vascular segmentation + computational fluid d
 ### ⌚ MIRAGE — At-home Wearable Dosimetry
 Single-scan, wearable-anchored and generative-AI-synthesised dosimetry for molecular radiotherapy, replacing today's 3–4 hospital SPECT/CT visits with one scan plus a continuously worn gamma detector. Horizon Europe draft proposal (three consortium variants), not yet submitted — see [thiagoluks/Research](https://github.com/thiagoluks/Research/tree/main/MIRAGE) *(private repo)*.
 
+### 📡 RADIANCE — Wearable Detector Dosimetry (superseded by MIRAGE)
+Earlier Horizon Europe draft proposal jointly optimising two wearable radiation-detector platforms (WIDMApp and OpenDosimeter) for at-home molecular radiotherapy dosimetry. Not submitted; superseded by MIRAGE's AI/simulation-based approach — kept for reference at [thiagoluks/Research](https://github.com/thiagoluks/Research/tree/main/RADIANCE) *(private repo)*.
+
 ### 🛠️ AGENT-WORKSPACE — Agentic AI as a Research Environment
 Using a persistent AI agent as the working environment for research: drafting and revising proposals, verifying literature, generating figures and maintaining the research repository, under conventions that keep every change small and reviewable. Workspace established; research scope not yet defined — see [thiagoluks/Research](https://github.com/thiagoluks/Research/tree/main/AGENT-WORKSPACE) *(private repo)*.
 
