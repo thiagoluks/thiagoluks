@@ -9,6 +9,7 @@ research, medical imaging, dosimetry and computational methods.
 
 - Molecular radiotherapy dosimetry
 - PET/CT and SPECT/CT quantification
+- Cardiac PET perfusion imaging and artefact correction
 - Radiopharmaceutical therapy
 - Medical imaging and image quality
 - Radiation protection
@@ -29,6 +30,9 @@ Monte Carlo simulations, image processing and data analysis.
 
 ### 🤖 AI & Medical Imaging
 Machine-learning approaches for image quality, segmentation and quantitative imaging.
+
+### ❤️ FUTURE-CARE — Cardiac PET Motion and Attenuation Correction
+Data-driven motion compensation and deep-learning synthetic attenuation maps for [82Rb] myocardial perfusion PET, evaluated against standard clinical reconstruction in a retrospective patient cohort and carried through to a blinded reader study of diagnostic and management impact. Proposal drafted — see [thiagoluks/Research](https://github.com/thiagoluks/Research/tree/main/FUTURE-CARE) *(private repo)*.
 
 ### 🫀 VIRTUO — Radioembolisation Digital Twin
 Patient-specific virtual twins (AI vascular segmentation + computational fluid dynamics + physics-informed generative AI) for radioembolisation planning, dosimetry and treatment optimisation. SNSF proposal in preparation — see [thiagoluks/Research](https://github.com/thiagoluks/Research/tree/main/VIRTUO) *(private repo)*.
