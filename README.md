@@ -32,8 +32,8 @@ Monte Carlo simulations, image processing and data analysis.
 ### 🤖 AI & Medical Imaging
 Machine-learning approaches for image quality, segmentation and quantitative imaging.
 
-### ❤️ FUTURE-CARE — Cardiac PET Motion and Attenuation Correction
-Data-driven motion compensation and deep-learning synthetic attenuation maps for [82Rb] myocardial perfusion PET, evaluated against standard clinical reconstruction in a retrospective patient cohort and carried through to a blinded reader study of diagnostic and management impact. Proposal drafted — see [thiagoluks/Research](https://github.com/thiagoluks/Research/tree/main/FUTURE-CARE) *(private repo)*.
+### ❤️ FUTURE-CARE — Prototype-Driven Quantitative Cardiac PET
+Data-driven motion compensation and deep-learning synthetic attenuation maps for [82Rb] myocardial perfusion PET, evaluated against standard clinical reconstruction in a retrospective patient cohort and carried through to a blinded reader study of diagnostic and management impact. A parallel proposal, FUTURE-CARE-Siemens, extends this into a joint project with Siemens Healthineers: a larger cohort, a partially industry-funded PhD position, and four further prototypes covering scan-specific dynamic framing, data-driven extraction of cardiac contractility, AI segmentation of cardiac structures and voxel-wise myocardial blood flow imaging. Both proposals drafted — see [thiagoluks/Research](https://github.com/thiagoluks/Research/tree/main/FUTURE-CARE) *(private repo)*.
 
 ### 🫀 VIRTUO — Radioembolisation Digital Twin
 Patient-specific virtual twins (AI vascular segmentation + computational fluid dynamics + physics-informed generative AI) for radioembolisation planning, dosimetry and treatment optimisation. SNSF proposal in preparation — see [thiagoluks/Research](https://github.com/thiagoluks/Research/tree/main/VIRTUO) *(private repo)*.
