@@ -18,7 +18,19 @@ research, medical imaging, dosimetry and computational methods.
 - Digital twins for interventional treatment planning
 - Agentic AI workflows for scientific writing and reproducible research
 
-## Projects
+## Clinical tools
+
+Tools already in clinical use at Luzerner Kantonsspital (LUKS). They live in the clinical hub, [thiagoluks/luks-medical-physics-apps](https://github.com/thiagoluks/luks-medical-physics-apps) *(private repo)*, behind a single launcher.
+
+### 🏥 Radiation Room Exposure Explorer
+Compares radiation dose structured reports from interventional procedures (for example with and without a RADPAD shield) and, from room and staff detector logs, compares room and staff exposure between scenarios.
+
+### 🧱 Shielding Calculator
+Structural shielding for nuclear medicine rooms (PET, SPECT, radionuclide therapy) following the Swiss BAG directives, with a web interface for testing room layouts and parameters.
+
+## Research projects
+
+Research projects are catalogued, one folder per topic, in the research hub [thiagoluks/Research](https://github.com/thiagoluks/Research) *(private repo)*. Code moves to the clinical hub only once it is used in the clinic.
 
 ### 🧬 Molecular Radiotherapy
 Tools and models for patient-specific dosimetry and pharmacokinetic analysis.
@@ -49,11 +61,11 @@ Using a persistent AI agent as the working environment for research: drafting an
 
 ## Software
 
-| Project | Description | Language |
-|---|---|---|
-| Project A | ... | Python |
-| Project B | ... | MATLAB |
-| Project C | ... | Python |
+| Project | Hub | Description | Language |
+|---|---|---|---|
+| [luks-medical-physics-apps](https://github.com/thiagoluks/luks-medical-physics-apps) *(private)* | Clinical | Launcher for the clinical tools above: exposure explorer and shielding calculator | Python, JavaScript |
+| [Dosimetry app](https://github.com/thiagoluks/Research/tree/main/Dosimetry) *(private)* | Research | TIA and absorbed-dose conversion between 177Lu and 225Ac and from mouse to human, with uncertainty checks against the EANM guidance | Python |
+| [MC-simulation-of-225Ac-in-bone](https://github.com/thiagoluks/MC-simulation-of-225Ac-in-bone) *(private)* | Research | OpenGATE Monte Carlo of 225Ac and its daughters in a voxelised vertebra, and a red-marrow dose comparison of MIRD, IDAC and Monte Carlo; part of the Dosimetry topic | Python |
 
 ## Publications
 
