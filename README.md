@@ -56,6 +56,9 @@ Single-scan, wearable-anchored and generative-AI-synthesised dosimetry for molec
 ### 📡 RADIANCE — Wearable Detector Dosimetry (superseded by MIRAGE)
 Earlier Horizon Europe draft proposal jointly optimising two wearable radiation-detector platforms (WIDMApp and OpenDosimeter) for at-home molecular radiotherapy dosimetry. Not submitted; superseded by MIRAGE's AI/simulation-based approach — kept for reference at [thiagoluks/Research](https://github.com/thiagoluks/Research/tree/main/RADIANCE) *(private repo)*.
 
+### ⚛️ Dosimetry — Converting TIA and Dose between 177Lu and 225Ac, Mouse and Human
+An app that converts time-integrated activity and absorbed dose between 177Lu- and 225Ac-labelled PSMA ligands, assuming the same biological kinetics, and extrapolates mouse biodistribution to the human adult. It is built on preclinical cut-and-count data for [225Ac]Ac-SibuDAB and [225Ac]Ac-PSMA-617, and reports a band for daughter equilibrium in the 225Ac chain. An image stage (serial 177Lu SPECT/CT simulated in OpenGATE 10 for 177Lu and for 225Ac with its daughters) is scaffolded. Stage 1 app working — see [thiagoluks/Research](https://github.com/thiagoluks/Research/tree/main/Dosimetry) *(private repo)*.
+
 ### 🛠️ AGENT-WORKSPACE — Agentic AI as a Research Environment
 Using a persistent AI agent as the working environment for research: drafting and revising proposals, verifying literature, generating figures and maintaining the research repository, under conventions that keep every change small and reviewable. Workspace established; research scope not yet defined — see [thiagoluks/Research](https://github.com/thiagoluks/Research/tree/main/AGENT-WORKSPACE) *(private repo)*.
 
