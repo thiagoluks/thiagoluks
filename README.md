@@ -25,6 +25,9 @@ Tools already in clinical use at Luzerner Kantonsspital (LUKS). They live in the
 ### 🏥 Radiation Room Exposure Explorer
 Compares radiation dose structured reports from interventional procedures (for example with and without a RADPAD shield) and, from room and staff detector logs, compares room and staff exposure between scenarios.
 
+### 📊 Staff Dose Dashboard
+Imports the monthly personal dosimetry exports and a staff list, and shows staff doses by dosimeter, month, year, department and person, against the investigation levels and annual limits.
+
 ### 🧱 Shielding Calculator
 Structural shielding for nuclear medicine rooms (PET, SPECT, radionuclide therapy) following the Swiss BAG directives, with a web interface for testing room layouts and parameters.
 
@@ -66,7 +69,7 @@ Using a persistent AI agent as the working environment for research: drafting an
 
 | Project | Hub | Description | Language |
 |---|---|---|---|
-| [luks-medical-physics-apps](https://github.com/thiagoluks/luks-medical-physics-apps) *(private)* | Clinical | Launcher for the clinical tools above: exposure explorer and shielding calculator | Python, JavaScript |
+| [luks-medical-physics-apps](https://github.com/thiagoluks/luks-medical-physics-apps) *(private)* | Clinical | Launcher for the clinical tools above: exposure explorer, staff dose dashboard and shielding calculator | Python, JavaScript |
 | [Dosimetry app](https://github.com/thiagoluks/Research/tree/main/Dosimetry) *(private)* | Research | TIA and absorbed-dose conversion between 177Lu and 225Ac and from mouse to human, with uncertainty checks against the EANM guidance | Python |
 | [MC-simulation-of-225Ac-in-bone](https://github.com/thiagoluks/MC-simulation-of-225Ac-in-bone) *(private)* | Research | OpenGATE Monte Carlo of 225Ac and its daughters in a voxelised vertebra, and a red-marrow dose comparison of MIRD, IDAC and Monte Carlo; part of the Dosimetry topic | Python |
 
