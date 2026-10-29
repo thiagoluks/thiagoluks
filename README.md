@@ -26,7 +26,7 @@ Tools already in clinical use at Luzerner Kantonsspital (LUKS). They live in the
 Compares radiation dose structured reports from interventional procedures (for example with and without a RADPAD shield) and, from room and staff detector logs, compares room and staff exposure between scenarios.
 
 ### 🩻 CT Dose Verification
-Reads a CT scanner's radiation dose structured report after a CTDI phantom measurement, links each scan to its protocol and chamber position, and compares the measured CTDIvol with the value the scanner reports.
+Reads a CT scanner's radiation dose structured report after a CTDI phantom measurement, links each scan to its protocol and chamber position, and compares the measured CTDIvol with the value the scanner reports. Saved measurements of the same scanner are followed over time, with a trend line per protocol.
 
 ### 🧱 Shielding Calculator
 Structural shielding for nuclear medicine rooms (PET, SPECT, radionuclide therapy) following the Swiss BAG directives, with a web interface for testing room layouts and parameters.
