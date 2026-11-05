@@ -25,6 +25,9 @@ Tools already in clinical use at Luzerner Kantonsspital (LUKS). They live in the
 ### 🏥 Radiation Room Exposure Explorer
 Compares radiation dose structured reports from interventional procedures (for example with and without a RADPAD shield) and, from room and staff detector logs, compares room and staff exposure between scenarios.
 
+### 📊 Staff Dose Dashboard
+Imports the monthly personal dosimetry exports and a staff list, and shows staff doses by dosimeter, month, year, department and person, against the investigation levels and annual limits.
+
 ### 🩻 CT Dose Verification
 Reads a CT scanner's radiation dose structured report after a CTDI phantom measurement, links each scan to its protocol and chamber position, and compares the measured CTDIvol with the value the scanner reports. Saved measurements of the same scanner are followed over time, with a trend line per protocol.
 
@@ -48,7 +51,7 @@ Monte Carlo simulations, image processing and data analysis.
 Machine-learning approaches for image quality, segmentation and quantitative imaging.
 
 ### ❤️ FUTURE-CARE — Prototype-Driven Quantitative Cardiac PET
-Data-driven motion compensation and deep-learning synthetic attenuation maps for [82Rb] myocardial perfusion PET, evaluated against standard clinical reconstruction in a retrospective patient cohort and carried through to a blinded reader study of diagnostic and management impact. A parallel proposal, FUTURE-CARE-Siemens, extends this into a joint project with Siemens Healthineers: a larger cohort, a partially industry-funded PhD position, and four further prototypes covering scan-specific dynamic framing, data-driven extraction of cardiac contractility, AI segmentation of cardiac structures and voxel-wise myocardial blood flow imaging. Both proposals drafted — see [thiagoluks/Research](https://github.com/thiagoluks/Research/tree/main/FUTURE-CARE) *(private repo)*.
+Data-driven motion compensation and deep-learning synthetic attenuation maps for [82Rb] myocardial perfusion PET, evaluated against standard clinical reconstruction in a retrospective patient cohort and carried through to a blinded reader study of diagnostic and management impact. A parallel proposal, FUTURE-CARE-Siemens, extends this into a joint project with Siemens Healthineers: a larger cohort, a partially industry-funded PhD position, and three further prototypes covering scan-specific dynamic framing and protocol personalisation, AI segmentation of cardiac structures and voxel-wise myocardial blood flow imaging. Both proposals drafted — see [thiagoluks/Research](https://github.com/thiagoluks/Research/tree/main/FUTURE-CARE) *(private repo)*.
 
 ### 🫀 VIRTUO — Radioembolisation Digital Twin
 Patient-specific virtual twins (AI vascular segmentation + computational fluid dynamics + physics-informed generative AI) for radioembolisation planning, dosimetry and treatment optimisation. SNSF proposal in preparation — see [thiagoluks/Research](https://github.com/thiagoluks/Research/tree/main/VIRTUO) *(private repo)*.
@@ -69,7 +72,7 @@ Using a persistent AI agent as the working environment for research: drafting an
 
 | Project | Hub | Description | Language |
 |---|---|---|---|
-| [luks-medical-physics-apps](https://github.com/thiagoluks/luks-medical-physics-apps) *(private)* | Clinical | Launcher for the clinical tools above: exposure explorer, shielding calculator and CT dose verification | Python, JavaScript |
+| [luks-medical-physics-apps](https://github.com/thiagoluks/luks-medical-physics-apps) *(private)* | Clinical | Launcher for the clinical tools above: exposure explorer, staff dose dashboard, shielding calculator and CT dose verification | Python, JavaScript |
 | [Dosimetry app](https://github.com/thiagoluks/Research/tree/main/Dosimetry) *(private)* | Research | TIA and absorbed-dose conversion between 177Lu and 225Ac and from mouse to human, with uncertainty checks against the EANM guidance | Python |
 | [MC-simulation-of-225Ac-in-bone](https://github.com/thiagoluks/MC-simulation-of-225Ac-in-bone) *(private)* | Research | OpenGATE Monte Carlo of 225Ac and its daughters in a voxelised vertebra, and a red-marrow dose comparison of MIRD, IDAC and Monte Carlo; part of the Dosimetry topic | Python |
 
