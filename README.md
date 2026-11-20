@@ -23,7 +23,7 @@ research, medical imaging, dosimetry and computational methods.
 Tools already in clinical use at Luzerner Kantonsspital (LUKS). They live in the clinical hub, [thiagoluks/luks-medical-physics-apps](https://github.com/thiagoluks/luks-medical-physics-apps) *(private repo)*, behind a single launcher.
 
 ### 🏥 Radiation Room Exposure Explorer
-Compares radiation dose structured reports from interventional procedures (for example with and without a RADPAD shield) and, from room and staff detector logs, compares room and staff exposure between scenarios.
+Compares radiation dose structured reports from interventional procedures (for example with and without a RADPAD shield) and, from room and staff detector logs, compares room and staff exposure between scenarios. Analyses are saved and reopened in one step, and a signed report explains the differences between scenarios and positions.
 
 ### 📊 Staff Dose Dashboard
 Imports the monthly personal dosimetry exports and a staff list, and shows staff doses by dosimeter, month, year, department and person, against the investigation levels and annual limits.
