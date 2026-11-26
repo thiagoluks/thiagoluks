@@ -31,6 +31,9 @@ Imports the monthly personal dosimetry exports and a staff list, and shows staff
 ### 🩻 CT Dose Verification
 Reads a CT scanner's radiation dose structured report after a CTDI phantom measurement, links each scan to its protocol and chamber position, and compares the measured CTDIvol with the value the scanner reports. Saved measurements of the same scanner are followed over time, with a trend line per protocol.
 
+### ☢️ NM KP — PET and SPECT Constancy Tests
+Evaluates the constancy tests of PET and SPECT cameras from the phantom DICOM images: the BAG homogeneity and quantification test together with the Siemens cross calibration from one cylinder scan, the contrast test with NEMA image quality for every reconstruction, and flood uniformity for SPECT. Every result is kept per site and scanner, with trend plots and a signed report.
+
 ### 🧱 Shielding Calculator
 Structural shielding for nuclear medicine rooms (PET, SPECT, radionuclide therapy) following the Swiss BAG directives, with a web interface for testing room layouts and parameters.
 
@@ -75,7 +78,7 @@ Using a persistent AI agent as the working environment for research: drafting an
 
 | Project | Hub | Description | Language |
 |---|---|---|---|
-| [luks-medical-physics-apps](https://github.com/thiagoluks/luks-medical-physics-apps) *(private)* | Clinical | Launcher for the clinical tools above: exposure explorer, staff dose dashboard, shielding calculator and CT dose verification | Python, JavaScript |
+| [luks-medical-physics-apps](https://github.com/thiagoluks/luks-medical-physics-apps) *(private)* | Clinical | Launcher for the clinical tools above: exposure explorer, staff dose dashboard, shielding calculator, CT dose verification and PET/SPECT constancy tests | Python, JavaScript |
 | [Dosimetry app](https://github.com/thiagoluks/Research/tree/main/Dosimetry) *(private)* | Research | TIA and absorbed-dose conversion between 177Lu and 225Ac and from mouse to human, with uncertainty checks against the EANM guidance | Python |
 | [MC-simulation-of-225Ac-in-bone](https://github.com/thiagoluks/MC-simulation-of-225Ac-in-bone) *(private)* | Research | OpenGATE Monte Carlo of 225Ac and its daughters in a voxelised vertebra, and a red-marrow dose comparison of MIRD, IDAC and Monte Carlo; part of the Dosimetry topic | Python |
 
